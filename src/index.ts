@@ -1,21 +1,7 @@
 import {
     ViewerApp,
     AssetManagerPlugin,
-    GBufferPlugin,
-    timeout,
-    ProgressivePlugin,
     TonemapPlugin,
-    SSRPlugin,
-    SSAOPlugin,
-    DiamondPlugin,
-    FrameFadePlugin,
-    GLTFAnimationPlugin,
-    GroundPlugin,
-    BloomPlugin,
-    TemporalAAPlugin,
-    AnisotropyPlugin,
-    GammaCorrectionPlugin,
-
     addBasePlugins,
     ITexture, TweakpaneUiPlugin, AssetManagerBasicPopupPlugin, CanvasSnipperPlugin,
 
